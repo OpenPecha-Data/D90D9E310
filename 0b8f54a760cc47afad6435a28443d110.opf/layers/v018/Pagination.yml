@@ -892,19 +892,19 @@ annotations:
     reference: ''
     span:
       start: 176701
-      end: 178789
+      end: 178635
   ed5da638537e474d8a064b90ea388fce:
     imgnum: 322
     reference: ''
     span:
-      start: 178791
-      end: 181244
+      start: 178637
+      end: 181090
   ef6cbbcb9be941d28c6b4d9736928c7f:
     imgnum: 323
     reference: ''
     span:
-      start: 181246
-      end: 182121
+      start: 181092
+      end: 181967
   3ef068a6231a443990da7e07c7a6ccb5:
     imgnum: 324
     reference: ''
